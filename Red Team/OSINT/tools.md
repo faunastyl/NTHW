@@ -107,3 +107,4 @@
 102. os-surveillance - [link](https://www.os-surveillance.io/)
 103. Predicta Search - [link](https://www.predictasearch.com/)
 104. LeakRadar - Scans for compromised emails and domains in stealer logs - [link](https://leakradar.io/)
+105. OFFENSIVE OSINT - OS-Surveillance Get actionable intelligence from real-time data - [link](https://www.os-surveillance.io/)
